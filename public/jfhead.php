@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="jf.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="search" content="yes">
-<meta name="description" content="<?php echo $metaDescription;?>">
+<meta name="description" content="<?php //echo $metaDescription;?>">
 <meta name="keywords" content="<?php echo $metaKeywords;?>>
 
 <title>www.judithfrost.co.uk <?php echo ": ". $pageTitle;?></title>

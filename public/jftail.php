@@ -16,6 +16,7 @@
 </td></tr>
 
 <?php
+$indicator = '';
 if (isset($_COOKIE['JF_index'])) {
 	$indicator='.';
 }else{
