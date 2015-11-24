@@ -1,0 +1,134 @@
+/* the basics */
+p,td,h1,h2,h3,h4,h5,h6
+{
+	font-family: verdana, sans-serif;
+	color: #8a8a8a;
+}
+a,p,td{	font-size: 9pt;}
+h1{	font-size: 24pt;}
+h2{	font-size: 20pt;}
+h3{	font-size: 18pt;}
+h4{	font-size: 12pt;}
+h5{	font-size: 12pt;}
+h6{	font-size: 9pt;}
+A:link
+{
+    COLOR: #6a6a9a;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #8a8a8a;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #8a8a8a;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #8dad00;
+    TEXT-DECORATION: none
+}
+
+/* preload images */
+.preloadImg {display: none;}
+
+.jfstyle1
+{
+    COLOR: #ff9933;
+    FONT-FAMILY: Verdana
+}
+.small { 
+	font-size: 6pt;
+	color: #3a3a3a;
+}
+.textbox 
+{
+	border: 0px ridge #f0eee3;
+	padding: 4px;
+	width: 60%;
+	color: #fff;
+}
+.box 
+{
+	border: 0px ridge #f0eee3;
+	padding: 12px;
+	width: 400px;
+	color: #ff0000;
+	font-size: 9pt;
+}
+
+.imgbox 
+{
+	border: 0px ridge #f0eee3;
+	padding: 12px;
+	width: 360px;
+	height: 240px;
+	color: #fffff0;
+}
+
+
+/* start CSS with JavaScript menu bar */
+
+table.menu	{
+	position: absolute;
+	border: 1px solid #8a8a8a;
+	cursor: pointer;
+	visibility: hidden;
+}
+#mainmenu	{
+	position: static;
+}
+
+table.menu td	{
+	color: #8a8a8a; /* Must be the same as tdColor in the menu_script.js */
+	background-color: #f0eee3; /* Must be the same as tdBgColor in the menu_script.js */
+	border: 1px;
+	padding: 0px 0px 0px 0px;
+	font-family: Arial;
+	font-size: 10;
+	white-space: nowrap;
+}
+/* end CSS with JavaScript menu bar */
+/* ---------------------------------*/
+/* start pure CSS menu bar */
+div.menuBar,
+div.menuBar a.menuButton {
+font-family: Verdana, sans-serif;
+font-size: 10pt;
+color: #8a8a8a;
+}
+
+div.menuBar {
+/*background-color: #F0EEE2;*/
+background-color: #F0EEE2;
+padding: 6px 2px 6px 2px;
+/*text-align: left;*/
+margin-left:2;
+margin-right:0;
+}
+
+div.menuBar a.menuButton {
+background-color: transparent;
+border: 1px solid;
+border-color: #f0f0f0 #909090 #909090 #f0f0f0;
+color: #8a8a8a;
+cursor: pointer;
+left: 0px;
+margin: 0px;
+padding: 4px 8px 4px 8px;
+position: relative;
+text-decoration: none;
+top: 0px;
+z-index: 100;
+}
+
+div.menuBar a.menuButton:hover {
+background-color: #E0DED2;
+border-color: #909090 #f0f0f0 #f0f0f0 #909090;
+color: #000000;
+text-decoration: #FFFFFF;
+}
+/* end pure CSS menu bar */
