@@ -84,4 +84,4 @@ Available as unframed prints, edition of 5, signed and numbered, £250.00:
 	</tr>
 </table>
 
-<p>Contact Judith Frost by email <a href="mailto:jcfrost@dialstart.net">jcfrost@dialstart.net</a> or phone +44 (0) 1305 822 096 for further details.</p>
+<p>Contact Judith Frost by email <a href="mailto:judithcfrost@gmail.com">judithcfrost@gmail.com</a> or phone +44 (0) 1305 822 096 for further details.</p>

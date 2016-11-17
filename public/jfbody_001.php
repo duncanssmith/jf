@@ -1,6 +1,6 @@
 <h6><?php echo $pageTitle;?></h6>
 
-<p>Contact Judith Frost at <a href="mailto:jcfrost@dialstart.net">jcfrost@dialstart.net</a></p>
+<p>Contact Judith Frost at <a href="mailto:judithcfrost@gmail.com">judithcfrost@gmail.com</a></p>
 
 <table border="0">
 	<tr>

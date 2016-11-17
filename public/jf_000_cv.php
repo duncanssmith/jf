@@ -152,7 +152,7 @@
 <tr><td colspan="2">&nbsp;</td>
 <tr><td colspan="2">tel: +44 (0) 1305 822 096</td></tr>
 <tr><td colspan="2">mobile: +44 (0) 7887 945 034</td></tr>
-<tr><td colspan="2">email: <a href="mailto:jcfrost@dialstart.net">jcfrost@dialstart.net</a></td></tr>
+<tr><td colspan="2">email: <a href="mailto:judithcfrost@gmail.com">judithcfrost@gmail.com</a></td></tr>
 
 </td></tr></table>
 
